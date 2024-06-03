@@ -1,9 +1,5 @@
 # Résolution-numérique
 Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![]([https://...Dark.png](https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png))  |  ![]([https://...Ocean.png](https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_lignes_epaisses_mur_rp.png))
-
 
 <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png" alt="alt text" width="48%" height="whatever">
 <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_lignes_epaisses_mur_rp.png" alt="alt text" width="48%" height="whatever">
