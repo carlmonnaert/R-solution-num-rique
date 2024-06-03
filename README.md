@@ -1,4 +1,4 @@
-# R-solution-num-rique
+# Résolution-numérique
 Résolution numérique de l'équation de la chaleur en 1D , 2D , 3D et lecteur de données
 
 
@@ -7,7 +7,7 @@ Résolution numérique de l'équation de la chaleur en 1D , 2D , 3D et lecteur d
 Le fichier `Résolution1D.py` affiche la résolution de l'équation de la chaleur en 1D en temps réel pour une barre de conductivité thermique modifiable en début de code.
 Cette barre est soumise à une température imposée à l'extrémité droite (temp_sol) et un flux conducto-convectif à gauche
 
-Le fichier Résolution2D affiche la résolution de l'équation de la chaleur en 2D en temps réel pour un plan de conductivité thermique modifiable en début de code.
+Le fichier 'Résolution2D.py' affiche la résolution de l'équation de la chaleur en 2D en temps réel pour un plan de conductivité thermique modifiable en début de code.
 Ce plan est souis à une température imposée sur le tour (temp_sol)
 
 Le fichier Résolution3Djoli affiche une résolution en 3D avec les mêmes conditions aux limites que pour la résolution en 2D
@@ -15,7 +15,7 @@ Le fichier Résolution3Djoli affiche une résolution en 3D avec les mêmes condi
 
 ## Résolution dans des cas particuliers:
 
-Les fichiers suivant résolvent l'équation de la chaleur pour un bassin de piscine soumis à une conducto-convection à sa surface, aucun flux thermique sur les côtés du bassin et une grille d'échangeur de géométrie personalisable sur le fond du bassin.
+Les fichiers suivant résolvent l'équation de la chaleur pour un bassin de piscine soumis à une conducto-convection à sa surface, aucun flux thermique sur les côtés du bassin et une grille d'échangeur de géométrie personalisable sur le fond du bassin et éventuellement les côtés.
 
 Les fichiers Résolution3Drp et Résolution3Dopti permettent la résolution de l'équation de la chaleur pour un bassin de piscine de dimensions olympiques et peut être adapté à tout autre système régi par la conduction thermique.
 
