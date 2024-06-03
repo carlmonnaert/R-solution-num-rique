@@ -1,8 +1,7 @@
 # Résolution-numérique
 Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png”>
-![alt_text](https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png?raw=true | width=100)
+![](https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png?raw=true| width=100)
 
 
 
