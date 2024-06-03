@@ -1,7 +1,7 @@
 # Résolution-numérique
 Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
 
-![alt text](https://github.com/[carlmonnaert]/[Résolution-numerique]/blob/[main]/bloc_lignes_epaisses_mur_rp.png?raw=true)
+![alt text](https://github.com/carlmonnaert/Résolution-numerique/blob/main/bloc_lignes_epaisses_mur_rp.png?raw=true)
 
 
 
