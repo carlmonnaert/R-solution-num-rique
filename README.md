@@ -1,29 +1,12 @@
 # Résolution-numérique
 Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
 
-
-<style>
-   /* Three image containers (use 25% for four, and 50% for two, etc) */
-  .column {
-    float: left;
-    width: 50%;
-    padding: 5px;
-  }
-  
-  /* Clear floats after image containers */
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  } 
-</style>
-
 <div class="row">
   <div class="column">
-    <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png" alt="alt text" width="100%" height="whatever">
+    <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png" alt="alt text" width="3%" height="whatever">
   </div>
   <div class="column">
-    <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_lignes_epaisses_mur_rp.png" alt="alt text" width="100%" height="whatever">
+    <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_lignes_epaisses_mur_rp.png" alt="alt text" width="3%" height="whatever">
   </div>
 </div>
 
