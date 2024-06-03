@@ -5,7 +5,7 @@ Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de 
   <style>
   .column {
     float: left;
-    width: 33.33%;
+    width: 50%;
     padding: 5px;
   }
   </style>
@@ -18,7 +18,7 @@ Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de 
       <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_lignes_epaisses_mur_rp.png" alt="alt text" width="3%" height="whatever">
     </div>
   </div>
-<\html>
+</html>
 ## Résolution dans des cas simples:
 
 Le fichier `Résolution1D.py` affiche la résolution de l'équation de la chaleur en 1D en temps réel pour une barre de conductivité thermique modifiable en début de code.
