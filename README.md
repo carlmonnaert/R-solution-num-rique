@@ -1,6 +1,12 @@
 # Résolution-numérique
 Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
 <div class="row">
   <div class="column">
     <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png" alt="alt text" width="3%" height="whatever">
