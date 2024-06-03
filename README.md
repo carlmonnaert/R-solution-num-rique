@@ -1,5 +1,5 @@
 # Résolution-numérique
-Résolution numérique de l'équation de la chaleur en 1D , 2D , 3D et lecteur de données
+Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
 
 
 ## Résolution dans des cas simples:
@@ -19,7 +19,7 @@ Les fichiers suivant résolvent l'équation de la chaleur pour un bassin de pisc
 
 Les fichiers `Résolution3Drp.py` et `Résolution3Dopti.py` permettent la résolution de l'équation de la chaleur pour un bassin de piscine de dimensions olympiques et peut être adapté à tout autre système régi par la conduction thermique.
 
-Il est nécéssaire de crééer un dossier du même nom que la variable extension, dossier dans lequel seront enregistrées des données auxquelles on pourra accéder par le lecteur `reader_all.py` dans lequel on entrera l'extension (nom du dossier) à visualiser.
+Il est nécessaire de créer un dossier du même nom que la variable extension, dossier dans lequel seront enregistrées des données par les exécutions de `Résolution3Drp.py` et `Résolution3Dopti.py`, auxquelles on pourra accéder par le lecteur `reader_all.py` dans lequel on entrera l'extension (nom du dossier) à visualiser.
 
 L'exécution de Résolution3Drp étant très longue (environ 5 heures pour les fichiers joints), on présente dans les dossiers joints les résultats pour différentes géométries de l'échangeur eau chauffée/eau du bassin.
 
