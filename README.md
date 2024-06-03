@@ -1,6 +1,4 @@
-# Résolution-numérique
-
-## Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
+# Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de données
  
 <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/combo_blocs.png" alt="alt text" width="100%" height="whatever">
  
