@@ -4,7 +4,7 @@ Résolution numérique de l'équation de la chaleur en 1D, 2D, 3D et lecteur de 
 
 
 <img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png" alt="alt text" width="50%" height="whatever">
-![alt | width="50%"](https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_plein_rp.png?raw=true)
+<img src="https://github.com/carlmonnaert/Resolution-numerique/blob/main/bloc_sol_mur_rp.png" alt="alt text" width="50%" height="whatever">
 
 
 ## Résolution dans des cas simples:
