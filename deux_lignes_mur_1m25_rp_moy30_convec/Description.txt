@@ -1,0 +1,5 @@
+Bassin de dimension 50m*25m*3m
+Valeur moyenne de chauffe 30°C
+Chauffage sur : -deux lignes de largeur 1m25 disposées selon la longeur aux tiers de la largeur
+		-deux lignes de largeur 30cm disposées selon la longeur au millieu des deux murs selon la longeur
+Durée d'expérience de 10h
